@@ -14,7 +14,7 @@ Não repetir código
 
  - .> (maior que)
  - < (menor que)
- - = (maior ou igual a)
- - = (menor ou igual a)
+ - <= (maior ou igual a)
+ - .>= (menor ou igual a)
  - == (igual a)
 - != (diferente de)"
