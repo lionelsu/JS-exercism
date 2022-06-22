@@ -28,3 +28,9 @@ Quarto
 - Tipos de dados (Boolean: true ou false).
 - Construtores simples (if e else e else if).
 - Operadores de comparação (>, <, >=, <=, ==, !=).
+
+Quinto
+---
+
+- Apresentando estruturas de repetição.
+- Apresentando vetores e tipos de dados.
