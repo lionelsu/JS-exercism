@@ -34,3 +34,20 @@ Quinto
 
 - Apresentando estruturas de repetição.
 - Apresentando vetores e tipos de dados.
+
+Sexto
+---
+
+- Utilizando construtores simples (if/else e while).
+
+Sétimo
+---
+
+- Utilizando o Switch Case, refatorando o código da atividade anterior.
+
+Oitavo
+---
+
+- Estrutura de dados.
+- Objetos.
+- Functions (named, anonymous, arrow).
