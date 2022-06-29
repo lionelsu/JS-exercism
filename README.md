@@ -51,3 +51,8 @@ Oitavo
 - Estrutura de dados.
 - Objetos.
 - Functions (named, anonymous, arrow).
+
+Nono
+---
+
+- Desafios.
